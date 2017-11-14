@@ -1,0 +1,194 @@
+
+body{ 
+	background: #eeebec;
+}
+
+.login{
+
+	width: 360px;
+    margin: 850px;
+    padding: 10px 30px 30px;
+    background: red;
+}
+
+
+.main_wrapper{ 
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	background: white;
+}
+
+.header_wrapper{
+
+	width:1000px;
+	height: 50px; 
+	margin-left: 0px;
+	margin-top: 40px; 
+	background: #eeebec;
+	
+}
+
+.menu_bar{
+	width: 1000px;
+	height: 50px;
+	background:#eeebec;
+	color:white;
+}
+
+#menu{
+	padding: 0;
+	margin: 0;
+	line-height: 50px;
+    float: left;
+}
+
+
+
+#menu li{
+	list-style: none;;
+	display: inline;
+
+}
+
+#menu a{
+	text-decoration: none;
+	padding: 8px;
+	margin: 5px;
+	font-size: 20px;
+	color: #7a6666;
+    font-family: lato-regular-webfont;
+   
+}
+
+#menu a:hover{
+	color: #c8c10d;
+	
+}
+
+#form{
+	float: right;
+	padding-right: 8px;
+	line-height: 50px;
+
+}
+.content_wrapper{
+	width: 1000px;
+	margin: auto; 
+	background:white;
+}
+
+#content_area{
+	width:800px;
+	float:left;
+	background:white;
+
+}
+
+#sidebar{
+	margin-top: -2px;
+	width:200px;
+	background:#629ABD;
+	float:right;
+	margin-right: -227px;
+}
+
+#sidebar_title{
+	background: white;
+	color: black;
+	font-size: 22px; 
+	font-family: arial;
+	padding: 10px;
+	text-align: center;
+	
+}
+
+#cats{
+	text-align: left;
+	margin-left: -0px;
+}
+
+#cats li{
+
+	list-style: none;
+	margin: 5px;	
+}
+
+#cats a{
+	color: white;
+	padding: 8px;
+	
+	text-align: left;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: lato-regular-webfont;
+	letter-spacing: 1px;
+
+	
+}
+
+#cats a:hover{
+	color: orange;
+
+}
+
+
+#cats img{
+
+	border: 2px solid white;
+	padding: 4px;
+
+
+}
+
+#products_box{
+	width: 780px;
+	text-align: center;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	float: left;
+
+}
+
+#price{
+	float:center;
+}
+
+
+   #single_product{
+
+   	float: left;
+   	margin-left: 30px;
+   	padding: 10px;
+
+   }
+
+   #single_product img{
+
+   	border: 2px solid black;
+   }
+
+   #shopping_cart{
+
+   	width: 800px;
+   	height: 46px;
+   	background:#629ABD;
+   	color:white; 
+   	margin-top: -15px;
+
+
+   }
+
+#footer{
+	width:1000px;
+	height:100px;
+	background: #3faba4;
+	clear:both;
+}
+
+
+ 
+
+
+
+
